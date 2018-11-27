@@ -9,3 +9,9 @@ def contain_a(array)
     x.include?("a")
   end
 end
+
+def first_wa(array)
+  array.find? do |x|
+    x.
+  
+end
