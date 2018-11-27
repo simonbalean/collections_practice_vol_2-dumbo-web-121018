@@ -10,3 +10,6 @@ def my_collect(array)
   new_array
   
 end
+
+def begins_with_r
+  
