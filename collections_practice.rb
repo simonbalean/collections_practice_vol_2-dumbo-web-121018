@@ -6,5 +6,6 @@ end
 
 def contain_a(array)
   array.find? do |x|
-    x.
+    x.include?("a")
+  end
 end
