@@ -25,10 +25,13 @@ def count_elements(array)
 end
 
 def merge_data(array)
+  
 end
 
 def find_cool(array)
+  
 end
 
 def organize_schools(array)
+  
 end
