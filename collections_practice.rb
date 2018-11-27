@@ -12,6 +12,6 @@ end
 
 def first_wa(array)
   array.find? do |x|
-    x.include?
-  
+    x.start_with("wa")
+  end
 end
