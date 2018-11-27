@@ -17,4 +17,17 @@ def first_wa(array)
 end
 
 def remove_non_strings(array)
+  array.chomp!
+end
+
+def count_elements(array)
+end
+
+def merge_data(array)
+end
+
+def find_cool(array)
+end
+
+def organize_schools(array)
 end
