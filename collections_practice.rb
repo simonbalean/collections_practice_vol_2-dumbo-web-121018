@@ -3,4 +3,8 @@ def begins_with_r(array)
     x.start_with?("r")
   end
 end
-  
+
+def contain_a(array)
+  array.find? do |x|
+    x.
+end
