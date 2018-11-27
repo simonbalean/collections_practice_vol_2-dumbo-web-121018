@@ -21,6 +21,7 @@ def remove_non_strings(array)
 end
 
 def count_elements(array)
+  
 end
 
 def merge_data(array)
